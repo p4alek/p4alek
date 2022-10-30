@@ -12,12 +12,12 @@ e propensões. Sou disciplinado, motivado e gosto de jogar em equipe.
 - Ler
 - Jogar xadrez
 - Assistir séries
+- Codewars(rank 3 kyu) => https://www.codewars.com/users/Alekhine1238
 
 ## Atualmente estudando
 
 - Python
-- React
-- JavaScript / TypeScript
+- JavaScript 
 
 ## Contatos
 
